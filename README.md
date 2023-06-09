@@ -3,7 +3,7 @@
 # Folders structure:
 SimpleChatSerice - chat server
 SimpleChatClient - chat client
-SimpleChatConsole - something like tests, creates 2 users and run interaction
+SimpleChatConsole - something like tests, creates 2 users and runs interaction
 # How to run:
 
 1. run server - 
